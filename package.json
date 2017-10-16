@@ -1,6 +1,6 @@
 {
   "name": "@mindbox/emoji-mart-lite",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Typescript typings for emoji-mart-lite",
   "main": "index.d.ts",
   "scripts": {
